@@ -79,7 +79,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="3100"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="lW1-jZ-jlB">
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" keyboardDismissMode="onDrag" translatesAutoresizingMaskIntoConstraints="NO" id="lW1-jZ-jlB">
                                 <rect key="frame" x="0.0" y="88" width="414" height="2929"/>
                                 <subviews>
                                     <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="xUq-o2-1lq" userLabel="ContentView">
